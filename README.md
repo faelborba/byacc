@@ -1,10 +1,10 @@
 # byacc
 
-##Aluno Rafael Borba dos Santos
-Professor Tales Viegas
-Disciplina Compiladores
-Faculdade Ciência da Computação
-Insituição ULBRA
+<p>	Aluno Rafael Borba dos Santos </p>
+<p>	Professor Tales Viegas </p>
+<p>	Disciplina Compiladores </p>
+<p>	Faculdade Ciência da Computação </p>
+<p>	Insituição ULBRA </p>
 
 Esse projeto, tem o objetivo de atender a demanda de um trabalho, para a disciplina de compiladores da faculdade de Ciência da Computação, que faz parte da Ulbra.
 Utilzamos as ferrramentas jflex para analise lexica, e byacc para transformar a linguagem escolhida pelo professor em linguagem C.

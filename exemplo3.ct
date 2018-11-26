@@ -1,0 +1,23 @@
+// Inclusao de Bibliotecas
+
+incluir <stdio.h>
+
+funcao_principal {
+  caracter numero1
+  inteiro numero2
+  real resultado
+
+  numero1 := 4
+  numero2 := 2
+
+  resultado := numero1 + numero2
+  imprima("Soma: %f\n", resultado)
+  resultado := numero1 - numero2
+  imprima("Subtracao: %f\n", resultado)
+  resultado := numero1 * numero2
+  imprima("Multiplicacao: %f\n", resultado)
+  resultado := numero1 / numero2
+  imprima("Divisao: %f\n", resultado)
+
+  retornar 0
+}
